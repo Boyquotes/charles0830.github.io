@@ -16,22 +16,6 @@
 <br/>
 
 <div align="center">
-	<a href="https://github.com/charles0830/charles0830.github.io">
-		<img src="screenshots/icon.png" alt="Logo" width="80" height="80"/>
-	</a>
-	<h3 align="center">Charles Berry (charles0830)'s Personal Portfolio</h3>
-	<p align="center">
-		This is the source code for my Personal Portfolio.
-		<br/>
-		<a href="https://github.com/charles0830/charles0830.github.io"><strong>Explore the docs »</strong></a>
-		<br/>
-		<br/>
-		<a href="https://charles0830.github.io/">View Demo</a>
-		·
-		<a href="https://github.com/charles0830/charles0830.github.io/issues/new?assignees=charles0830&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
-		·
-		<a href="https://github.com/charles0830/charles0830.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
-	</p>
 	<p>
 		<img src="https://img.shields.io/github/contributors/charles0830/charles0830.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
 		<img src="https://img.shields.io/github/forks/charles0830/charles0830.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
@@ -113,14 +97,6 @@
 <a href="https://coolors.co/090909-121212-ffff00-03a9f4-011718">
   <img alt="Color Palette Screenshot" src="screenshots/color-loader-404.png"/>
 </a>
-
-### Icon
-
-This is the icon of me in [charles0830.github.io](https://charles0830.github.io)
-
-<img alt="Me Icon" src="screenshots/icon.png" width="192">
-
-Insert the following code in the `<head>` section of your pages to support favicons on all browsers and platforms.
 
 ```html
 <meta name="theme-color" content="#242a35">
@@ -506,27 +482,6 @@ If you like my content or find this code useful, give it a ⭐.
 Contributions, Issues and Feature requests are Welcome!
 
 Feel free to check the [Issues page](https://github.com/charles0830/charles0830.github.io/issues/).
-
-
-## Contributors ✨
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://charles0830.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Charles Berry</b></sub></a><br /><a href="https://github.com/charles0830/charles0830.github.io/commits?author=charles0830" title="Code">💻</a> <a href="#ideas-charles0830" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/charles0830/charles0830.github.io/commits?author=charles0830" title="Tests">⚠️</a> <a href="#maintenance-charles0830" title="Maintenance">🚧</a> <a href="https://github.com/charles0830/charles0830.github.io/commits?author=charles0830" title="Documentation">📖</a> <a href="#design-charles0830" title="Design">🎨</a> <a href="https://github.com/charles0830/charles0830.github.io/pulls?q=is%3Apr+reviewed-by%3Acharles0830" title="Reviewed Pull Requests">👀</a> <a href="#content-charles0830" title="Content">🖋</a> <a href="#a11y-charles0830" title="Accessibility">️️️️♿️</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/charles0830/charles0830.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/charles0830/charles0830.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/charles0830/charles0830.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td>
-  </tr>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
