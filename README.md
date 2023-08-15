@@ -31,12 +31,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://charles0830.github.io/">
-    <img src="screenshots/screenshot.gif" alt="landing page"/>
-  </a>
-</p>
-
 
 ## Table of Contents :scroll:
 
